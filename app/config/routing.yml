@@ -1,0 +1,4 @@
+lecture:
+    resource: "@LectureBundle/Resources/config/routing.yml"
+    prefix:   /
+

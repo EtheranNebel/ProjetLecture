@@ -1,0 +1,3 @@
+lecture_homepage:
+    path:     /
+    defaults: { _controller: LectureBundle:Default:index }
